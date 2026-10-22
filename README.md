@@ -41,15 +41,12 @@ switch2.
 
 Direct connection: CIRCUIT DIAGRAM: 
 <img width="852" height="447" alt="Screenshot 2026-10-18 180743" src="https://github.com/user-attachments/assets/2e229985-4b80-42a5-a7bc-6fe0b0fd9143" />
-<img width="850" height="513" alt="Screenshot 2026-10-18 181028" src="https://github.com/user-attachments/assets/81916353-155e-45c7-ade2-9c04c68897f6" />
 
 Tabulation:1
 <img width="1600" height="1054" alt="image" src="https://github.com/user-attachments/assets/701710ce-c005-4b7e-a724-d7e610848409" />
 
 Cross connection: CIRCUIT DIAGRAM:
-<img width="842" height="452" alt="image" src="https://github.com/user-attachments/assets/f0106e0b-94d9-43c1-9b46-fc539b6ab455" />
-<img width="882" height="497" alt="Screenshot 2026-10-18 180638" src="https://github.com/user-attachments/assets/b30b0322-8999-4c94-bc97-964544a772e7" />
-
+<img width="1120" height="627" alt="image" src="https://github.com/user-attachments/assets/63e6d54b-fdd8-461c-951f-59fae5992db1" />
 
 Tabulation:2
 <img width="1600" height="1340" alt="image" src="https://github.com/user-attachments/assets/3f3f94f5-44b4-4915-b9c0-deaa24e7b813" />
